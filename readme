@@ -1,0 +1,22 @@
+# 💰 Earvollt - Earn Rewards Simulator
+
+¡Bienvenido a **Earvollt**! Una herramienta interactiva diseñada para simular y calcular proyecciones de recompensas de manera visual y sencilla.
+
+---
+
+## 🚀 ¿Qué es Earvollt?
+Este proyecto es un simulador que ayuda a los usuarios a entender cómo funcionan los sistemas de recompensas (rewards), permitiéndoles ingresar variables y ver resultados en tiempo real a través de una interfaz web limpia e intuitiva.
+
+## ✨ Características Principales
+*   **Cálculo en tiempo real:** Modifica los valores y mira los resultados al instante.
+*   **Interfaz Web Simple:** Construido con tecnologías web estándar para una carga ultrarrápida.
+*   **Sin instalaciones complejas:** Funciona directamente desde el navegador.
+
+## 🛠️ Cómo Probar el Proyecto
+
+### Opción 1: Probar Localmente (Desarrolladores)
+Si quieres ver el código y ejecutarlo en tu computadora:
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/fullcase705/earvollt.git](https://github.com/fullcase705/earvollt.git)
